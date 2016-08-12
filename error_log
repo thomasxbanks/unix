@@ -1,0 +1,28 @@
+[05-May-2016 10:07:49 America/Denver] PHP Fatal error:  Call to undefined function now() in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 27
+[05-May-2016 10:07:54 America/Denver] PHP Fatal error:  Call to undefined function now() in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 27
+[05-May-2016 10:08:37 America/Denver] PHP Warning:  strtotime() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 27
+[05-May-2016 10:09:16 America/Denver] PHP Notice:  A non well formed numeric value encountered in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 27
+[05-May-2016 10:21:44 America/Denver] PHP Notice:  Undefined variable: GET in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 3
+[05-May-2016 10:21:52 America/Denver] PHP Notice:  Undefined variable: GET in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 3
+[05-May-2016 10:22:40 America/Denver] PHP Notice:  Undefined variable: GET in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 3
+[06-May-2016 01:46:08 America/Denver] PHP Warning:  substr() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 6
+[06-May-2016 01:46:08 America/Denver] PHP Notice:  A non well formed numeric value encountered in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 6
+[06-May-2016 01:57:21 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 32
+[06-May-2016 02:08:34 America/Denver] PHP Notice:  Array to string conversion in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 33
+[06-May-2016 02:08:34 America/Denver] PHP Warning:  substr() expects parameter 1 to be string, array given in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 33
+[06-May-2016 02:45:28 America/Denver] PHP Fatal error:  Call to undefined function length() in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 49
+[06-May-2016 02:45:32 America/Denver] PHP Fatal error:  Call to undefined function length() in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 49
+[06-May-2016 02:46:05 America/Denver] PHP Fatal error:  Call to undefined function length() in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 48
+[06-May-2016 02:46:08 America/Denver] PHP Fatal error:  Call to undefined function length() in /home1/scrummab/public_html/sandbox/snippets/unix/process.php on line 48
+[06-May-2016 02:54:23 America/Denver] PHP Notice:  Undefined index: unix_input in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 43
+[06-May-2016 02:54:56 America/Denver] PHP Notice:  Undefined index: unix_input in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 43
+[06-May-2016 02:58:25 America/Denver] PHP Notice:  Undefined index: unix_input in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 69
+[06-May-2016 03:26:16 America/Denver] PHP Notice:  Undefined index: unix_input in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 86
+[06-May-2016 03:32:22 America/Denver] PHP Fatal error:  Call to undefined function indexOf() in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 87
+[06-May-2016 03:33:28 America/Denver] PHP Fatal error:  Call to undefined function indexOf() in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 87
+[06-May-2016 03:40:20 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 93
+[06-May-2016 03:49:47 America/Denver] PHP Warning:  date() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 100
+[06-May-2016 04:00:49 America/Denver] PHP Notice:  Undefined variable: trimmed in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 100
+[06-May-2016 05:32:53 America/Denver] PHP Warning:  gmdate() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 105
+[09-May-2016 02:25:32 America/Denver] PHP Warning:  gmdate() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 105
+[02-Jun-2016 04:47:08 America/Denver] PHP Warning:  gmdate() expects parameter 2 to be long, string given in /home1/scrummab/public_html/sandbox/snippets/unix/index.php on line 106
